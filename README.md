@@ -15,7 +15,6 @@ the maintainers of the dataset.**
 ## Requirements
 
 * Python 3
-* [`axel`](https://github.com/axel-download-accelerator/axel)
 * CDF (https://www.scivision.dev/spacepy-install-anaconda-python/)
 
 ## Usage
